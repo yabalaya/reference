@@ -308,8 +308,8 @@ Quick Reference
 <a href="https://github.com/itldg" title="老大哥">
   <img src="https://avatars.githubusercontent.com/u/13432299?v=4" width="42;" alt="老大哥"/>
 </a>
-<a href="https://github.com/catcto" title="catcto">
-  <img src="https://avatars.githubusercontent.com/u/5467932?v=4" width="42;" alt="catcto"/>
+<a href="https://github.com/catcto" title="小武Alan">
+  <img src="https://avatars.githubusercontent.com/u/5467932?v=4" width="42;" alt="小武Alan"/>
 </a>
 <a href="https://github.com/ryanhex53" title="ryanhex53">
   <img src="https://avatars.githubusercontent.com/u/360426?v=4" width="42;" alt="ryanhex53"/>
@@ -404,8 +404,8 @@ Quick Reference
 <a href="https://github.com/chyok" title="chyok">
   <img src="https://avatars.githubusercontent.com/u/32629225?v=4" width="42;" alt="chyok"/>
 </a>
-<a href="https://github.com/Moeyuuko" title="Moeyuuko">
-  <img src="https://avatars.githubusercontent.com/u/14266681?v=4" width="42;" alt="Moeyuuko"/>
+<a href="https://github.com/zlfyuan" title="bgbgPang">
+  <img src="https://avatars.githubusercontent.com/u/19658018?v=4" width="42;" alt="bgbgPang"/>
 </a>
 <a href="https://github.com/Zeng-qh" title="都一样">
   <img src="https://avatars.githubusercontent.com/u/40046415?v=4" width="42;" alt="都一样"/>
@@ -473,6 +473,9 @@ Quick Reference
 <a href="https://github.com/liliangrong777" title="liliangrong777">
   <img src="https://avatars.githubusercontent.com/u/58727146?v=4" width="42;" alt="liliangrong777"/>
 </a>
+<a href="https://github.com/Moeyuuko" title="Moeyuuko">
+  <img src="https://avatars.githubusercontent.com/u/14266681?v=4" width="42;" alt="Moeyuuko"/>
+</a>
 <a href="https://github.com/malcolmyu" title="Minghao Yu">
   <img src="https://avatars.githubusercontent.com/u/3203962?v=4" width="42;" alt="Minghao Yu"/>
 </a>
@@ -536,9 +539,6 @@ Quick Reference
 <a href="https://github.com/13812700839" title="花殇">
   <img src="https://avatars.githubusercontent.com/u/58072506?v=4" width="42;" alt="花殇"/>
 </a>
-<a href="https://github.com/zlfyuan" title="bgbgPang">
-  <img src="https://avatars.githubusercontent.com/u/19658018?v=4" width="42;" alt="bgbgPang"/>
-</a>
 <a href="https://github.com/Lmmmmmm-bb" title="_lmmmmmm">
   <img src="https://avatars.githubusercontent.com/u/54026110?v=4" width="42;" alt="_lmmmmmm"/>
 </a>
@@ -598,6 +598,9 @@ Quick Reference
 </a>
 <a href="https://github.com/HanaNoryu" title="Noryu">
   <img src="https://avatars.githubusercontent.com/u/109856546?v=4" width="42;" alt="Noryu"/>
+</a>
+<a href="https://github.com/NianwenDan" title="NianwenDan">
+  <img src="https://avatars.githubusercontent.com/u/74407127?v=4" width="42;" alt="NianwenDan"/>
 </a>
 <a href="https://github.com/mo3et" title="Monet Lee">
   <img src="https://avatars.githubusercontent.com/u/34803812?v=4" width="42;" alt="Monet Lee"/>
@@ -671,6 +674,7 @@ Quick Reference
 [jeffjade.com](https://codehelp.jeffjade.com)<!--rehype:target=_blank-->
 [okhk.net](https://ref.okhk.net)<!--rehype:target=_blank-->
 [wdft.com](https://ref.wdft.com)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
+[xuyiyang.vip](https://reference.xuyiyang.vip/)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
