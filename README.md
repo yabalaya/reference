@@ -290,6 +290,9 @@ Quick Reference
 <a href="https://github.com/chaos-cn" title="chaos">
   <img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/>
 </a>
+<a href="https://github.com/1250422131" title="萌新杰少">
+  <img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/>
+</a>
 <a href="https://github.com/MackDing" title="Blossom">
   <img src="https://avatars.githubusercontent.com/u/19878893?v=4" width="42;" alt="Blossom"/>
 </a>
@@ -304,9 +307,6 @@ Quick Reference
 </a>
 <a href="https://github.com/wsypower" title="魏">
   <img src="https://avatars.githubusercontent.com/u/31298317?v=4" width="42;" alt="魏"/>
-</a>
-<a href="https://github.com/1250422131" title="萌新杰少">
-  <img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/>
 </a>
 <a href="https://github.com/itldg" title="老大哥">
   <img src="https://avatars.githubusercontent.com/u/13432299?v=4" width="42;" alt="老大哥"/>
@@ -682,6 +682,7 @@ Quick Reference
 [chanlun.pro](https://ref.chanlun.pro)<!--rehype:target=_blank-->
 [likui.info](https://r.likui.info)<!--rehype:target=_blank-->
 [ruiange.work](https://code.ruiange.work/)<!--rehype:target=_blank-->
+[denganliang.com](https://ref.denganliang.com)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
